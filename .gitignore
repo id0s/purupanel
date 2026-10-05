@@ -1,0 +1,14 @@
+# Logs & user sites
+logs/
+sites/
+dvwa
+DVWA
+*.bak*
+*.test
+.DS_Store
+Thumbs.db
+
+# SQLite temp files
+core/*.db-journal
+core/*.db-wal
+core/*.db-shm
